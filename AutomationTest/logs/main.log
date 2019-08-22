@@ -1,0 +1,240 @@
+2019-08-20 22:54:54,613 +0530 [main] INFO  (ExcelUtility.java:40) - header1 is:UserName
+2019-08-22 14:26:50,434 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 14:26:54,817 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 14:48:49,781 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 14:48:52,227 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 14:51:40,468 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 14:51:44,196 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 14:58:00,335 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 14:58:03,820 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 14:58:06,110 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 15:07:17,124 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 15:07:20,957 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 15:07:24,495 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 15:07:27,932 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 15:08:59,468 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 15:09:02,710 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 15:09:04,851 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 15:10:54,427 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 15:10:56,823 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 15:10:59,389 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 15:14:16,493 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 15:14:20,413 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 15:14:22,791 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 15:27:41,781 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 15:27:45,398 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 15:27:49,079 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 15:49:36,089 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 15:49:40,212 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 15:49:43,585 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 15:56:27,499 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 15:56:30,042 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 15:56:32,863 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 15:58:30,822 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 15:58:34,158 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 15:58:36,571 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 16:00:12,602 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 16:00:16,563 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 16:00:20,322 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 16:06:55,717 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 16:06:59,363 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 16:07:01,933 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 16:14:29,836 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 16:14:32,219 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 16:14:34,685 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 16:21:40,002 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 16:21:43,494 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 16:21:46,084 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 16:29:51,421 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 16:29:53,845 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 16:38:32,567 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 16:38:35,111 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 16:39:59,231 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 16:40:02,625 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 16:40:05,302 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 16:44:54,497 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 16:44:57,837 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 16:45:00,333 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 16:52:40,975 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 16:52:44,731 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 16:54:15,679 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 16:54:18,319 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 16:54:21,391 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 16:59:37,680 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 16:59:42,928 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 16:59:55,339 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 17:22:17,868 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 17:22:30,341 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 17:22:36,023 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 17:22:36,508 +0530 [main] INFO  (TC_Register_001.java:28) - user entered the Email
+2019-08-22 17:24:55,486 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 17:25:05,814 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 17:25:09,704 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 17:25:10,637 +0530 [main] INFO  (TC_Register_001.java:28) - user entered the Email
+2019-08-22 17:26:28,159 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 17:26:40,265 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 17:26:44,871 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 17:26:45,357 +0530 [main] INFO  (TC_Register_001.java:28) - user entered the Email
+2019-08-22 17:28:46,999 +0530 [main] INFO  (CucumberHooks.java:26) - browser is opened
+2019-08-22 17:28:59,791 +0530 [main] INFO  (CucumberHooks.java:28) - URL is launched
+2019-08-22 17:29:03,297 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 17:29:03,649 +0530 [main] INFO  (TC_Register_001.java:28) - user entered the Email
+2019-08-22 17:29:04,133 +0530 [main] INFO  (TC_Register_001.java:34) - user clicked on create account button
+2019-08-22 18:55:54,640 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 18:56:14,310 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 18:56:25,192 +0530 [main] INFO  (TC_Register_001.java:19) - user clicked on signup button
+2019-08-22 18:56:25,678 +0530 [main] INFO  (TC_Register_001.java:28) - user entered the Email
+2019-08-22 18:56:25,934 +0530 [main] INFO  (TC_Register_001.java:34) - user clicked on create account button
+2019-08-22 20:25:53,353 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 20:26:07,412 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 20:26:13,806 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 20:26:14,339 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 20:26:14,735 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 20:32:21,945 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 20:32:33,875 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 20:32:37,711 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 20:32:38,234 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 20:32:38,494 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 20:55:02,945 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 20:55:17,661 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 20:55:21,161 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 20:55:21,497 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 20:55:21,777 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 20:58:23,251 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 20:58:35,716 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 20:58:39,026 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 20:58:39,392 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 20:58:39,720 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 21:00:12,301 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 21:00:24,297 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 21:00:27,601 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 21:00:27,983 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 21:00:28,363 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 21:02:33,992 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 21:02:46,221 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 21:02:49,923 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 21:02:50,301 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 21:02:50,601 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 21:04:47,727 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 21:05:01,200 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 21:05:05,166 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 21:05:05,518 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 21:05:05,762 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 21:18:43,680 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 21:18:56,501 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 21:19:01,521 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 21:19:01,899 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 21:19:02,247 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 21:21:46,128 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 21:21:58,074 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 21:22:01,809 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 21:22:02,229 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 21:22:02,565 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 21:23:30,864 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 21:23:40,723 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 21:23:45,446 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 21:23:46,048 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 21:23:46,395 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 21:45:15,859 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 21:45:28,309 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 21:45:32,087 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 21:45:32,773 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 21:45:33,009 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 21:47:16,347 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 21:47:28,165 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 21:47:31,719 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 21:47:32,336 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 21:47:32,767 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 21:50:07,558 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 21:50:21,134 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 21:50:24,858 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 21:50:25,276 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 21:50:25,589 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 21:52:43,562 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 21:52:58,720 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 21:53:02,923 +0530 [main] INFO  (TC_Register_001.java:25) - user clicked on signup button
+2019-08-22 21:53:03,311 +0530 [main] INFO  (TC_Register_001.java:34) - user entered the Email
+2019-08-22 21:53:03,755 +0530 [main] INFO  (TC_Register_001.java:40) - user clicked on create account button
+2019-08-22 22:19:34,310 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 22:19:47,756 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 22:19:53,090 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 22:19:53,536 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 22:19:53,831 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 22:23:33,957 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 22:23:46,246 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 22:23:50,309 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 22:23:50,744 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 22:23:51,114 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 22:34:05,769 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 22:34:18,991 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 22:34:22,804 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 22:34:23,178 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 22:34:23,400 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 22:35:28,687 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 22:35:42,179 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 22:35:46,553 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 22:35:46,905 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 22:35:47,204 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 22:43:49,360 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 22:44:02,744 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 22:44:06,813 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 22:44:07,226 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 22:44:07,474 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 22:50:17,752 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 22:50:34,472 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 22:50:39,513 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 22:50:40,243 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 22:50:40,483 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 22:51:54,407 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 22:52:15,044 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 22:52:22,254 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 22:52:22,631 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 22:52:22,866 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 22:57:42,262 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 22:58:02,334 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 22:58:10,881 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 22:58:11,250 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 22:58:11,487 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 23:02:43,912 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 23:02:57,348 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 23:03:05,022 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 23:03:05,412 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 23:03:05,689 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 23:05:51,979 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 23:06:07,543 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 23:06:12,526 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 23:06:12,931 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 23:06:13,278 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 23:14:36,507 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 23:14:49,124 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 23:14:55,385 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 23:14:55,856 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 23:14:56,117 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 23:17:05,238 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 23:17:26,868 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 23:17:34,697 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 23:17:35,063 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 23:17:35,282 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 23:23:02,626 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 23:23:15,201 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 23:23:19,079 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 23:23:19,532 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 23:23:19,845 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 23:24:55,010 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 23:25:07,461 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 23:25:11,679 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 23:25:12,061 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 23:25:12,386 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 23:27:20,935 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 23:27:33,458 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 23:27:39,154 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 23:27:39,608 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 23:27:39,989 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-22 23:32:51,832 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-22 23:33:04,535 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-22 23:33:09,443 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
+2019-08-22 23:33:09,951 +0530 [main] INFO  (TC_Register_001.java:33) - user entered the Email
+2019-08-22 23:33:10,273 +0530 [main] INFO  (TC_Register_001.java:39) - user clicked on create account button
+2019-08-23 00:40:05,858 +0530 [main] INFO  (CucumberHooks.java:23) - browser is opened
+2019-08-23 00:40:20,683 +0530 [main] INFO  (CucumberHooks.java:25) - URL is launched
+2019-08-23 00:40:32,713 +0530 [main] INFO  (TC_Register_001.java:24) - user clicked on signup button
